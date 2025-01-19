@@ -1,0 +1,62 @@
+name: Data Automation Pipeline
+
+on:
+  push:
+    branches:
+      - main
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write 
+
+    steps:
+      # Step 1: Checkout Repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+
+      # Step 3: Install Dependencies
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install kaggle
+
+      # Step 4: Create .kaggle directory and set Kaggle credentials
+      - name: Set up Kaggle API credentials
+        run: |
+          mkdir -p ~/.kaggle
+          echo "{\"username\": \"${{ secrets.KAGGLE_USERNAME }}\", \"key\": \"${{ secrets.KAGGLE_KEY }}\"}" > ~/.kaggle/kaggle.json
+          chmod 600 ~/.kaggle/kaggle.json
+  
+      # Step 5: Run Pipeline
+      - name: Run the Python script to fetch data
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          python Scripts/pipeline.py
+
+      # Step 6: Check for changes in the Data folder
+      - name: Check for changes in Data folder
+        id: check_changes
+        run: |
+          git diff --exit-code Data/ || echo "Changes detected"
+        
+      # Step 7: Commit and push Data folder only if there are changes
+      - name: Commit and push Data folder
+        if: steps.check_changes.outputs.exit_code != '0'
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Data/
+          git commit -m "Add transformed dataset"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
