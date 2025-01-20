@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '*/10 * * * *'  # Runs the workflow everyday .
+    - cron: '*/5 * * * *'  # Runs everythe workflow everyday .
 
 jobs:
   run-pipeline:
