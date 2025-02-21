@@ -1,14 +1,14 @@
 Title,Type,Genres,Year,Rating,Votes,Genre_1,Genre_2,Genre_3
-Like Stars on Earth,movie,"Drama, Family",2007,8.3,215161.0,Drama,Family,
-Jaane Tu... Ya Jaane Na,movie,"Comedy, Drama, Romance",2008,7.4,28762.0,Comedy,Drama,Romance
-Lagaan: Once Upon a Time in India,movie,"Drama, Musical, Sport",2001,8.1,123206.0,Drama,Musical,Sport
-Querô: A Damned Report,movie,Drama,2007,6.8,420.0,Drama,,
-Captain Underpants: Epic Choice-o-Rama,movie,"Action, Adventure, Animation",2020,5.7,196.0,Action,Adventure,Animation
-Behind 98,movie,"Drama, History, Thriller",2015,6.0,116.0,Drama,History,Thriller
+Like Stars on Earth,movie,"Drama, Family",2007,8.3,215191.0,Drama,Family,
+Jaane Tu... Ya Jaane Na,movie,"Comedy, Drama, Romance",2008,7.4,28765.0,Comedy,Drama,Romance
+Lagaan: Once Upon a Time in India,movie,"Drama, Musical, Sport",2001,8.1,123211.0,Drama,Musical,Sport
+Querô: A Damned Report,movie,Drama,2007,6.8,421.0,Drama,,
+Captain Underpants: Epic Choice-o-Rama,movie,"Action, Adventure, Animation",2020,5.8,197.0,Action,Adventure,Animation
+Behind 98,movie,"Drama, History, Thriller",2015,6.0,117.0,Drama,History,Thriller
 Nail Demon,movie,"Comedy, Horror, Romance",2009,5.0,52.0,Comedy,Horror,Romance
-Delhi Belly,movie,"Action, Comedy, Crime",2011,7.6,33236.0,Action,Comedy,Crime
+Delhi Belly,movie,"Action, Comedy, Crime",2011,7.6,33237.0,Action,Comedy,Crime
 Pomegranates and Myrrh,movie,Drama,2008,6.3,326.0,Drama,,
-Love is Not Blind,movie,"Comedy, Drama, Romance",2011,6.5,1866.0,Comedy,Drama,Romance
+Love is Not Blind,movie,"Comedy, Drama, Romance",2011,6.5,1867.0,Comedy,Drama,Romance
 Habibi Rasak Kharban,movie,"Drama, Romance, War",2011,6.6,193.0,Drama,Romance,War
 Just Friends?,movie,"Drama, Musical, Romance",2009,6.7,722.0,Drama,Musical,Romance
 A Complicated Story,movie,Drama,2013,5.4,128.0,Drama,,
@@ -29,7 +29,7 @@ Chrisye,movie,"Biography, Drama, Music",2017,6.4,134.0,Biography,Drama,Music
 "Barba, Cabelo & Bigode",movie,Documentary,2016,7.2,15.0,Documentary,,
 Three Ladies,movie,"Comedy, Drama, Fantasy",2015,6.3,33.0,Comedy,Drama,Fantasy
 40 Hari Bangkitnya Pocong,movie,Horror,2008,4.9,67.0,Horror,,
-Laerte-se,movie,"Biography, Documentary",2017,7.0,742.0,Biography,Documentary,
+Laerte-se,movie,"Biography, Documentary",2017,7.0,741.0,Biography,Documentary,
 Alaska Is a Drag,movie,Drama,2017,6.6,552.0,Drama,,
 Hi5teria,movie,"Horror, Mystery",2012,5.9,118.0,Horror,Mystery,
 Tiren: Mati Kemaren,movie,Horror,2008,4.1,31.0,Horror,,
@@ -76,7 +76,7 @@ Daiki Tsuneta Tokyo Chaotic,movie,Documentary,2021,7.4,50.0,Documentary,,
 Cat Burglar,movie,"Animation, Comedy, Short",2022,6.6,709.0,Animation,Comedy,Short
 Blippi the Musical,movie,Family,2021,4.1,25.0,Family,,
 We Lost Our Human,movie,"Adventure, Animation, Comedy",2023,6.3,204.0,Adventure,Animation,Comedy
-Barbie: Epic Road Trip,movie,"Animation, Comedy, Family",2022,6.4,152.0,Animation,Comedy,Family
+Barbie: Epic Road Trip,movie,"Animation, Comedy, Family",2022,6.4,153.0,Animation,Comedy,Family
 Jurassic World Camp Cretaceous: Hidden Adventure,movie,"Action, Adventure, Animation",2022,7.0,242.0,Action,Adventure,Animation
 Chhota Bheem aur Malongh ka Raaz,movie,Animation,2021,5.7,17.0,Animation,,
 Chhota Bheem ki Citi Pitti Gul,movie,Animation,2021,6.0,21.0,Animation,,
@@ -87,7 +87,7 @@ Veer Bahadur Bheem,movie,Animation,2022,5.4,17.0,Animation,,
 Vientos de agua,tv,Drama,2006,8.7,1231.0,Drama,,
 The Hospital,tv,Drama,2006,7.2,72.0,Drama,,
 H,tv,Comedy,1998,7.4,2012.0,Comedy,,
-Costa!,tv,Romance,2001,4.5,298.0,Romance,,
+Costa!,tv,Romance,2001,4.5,299.0,Romance,,
 Dresden,tv,"Drama, Romance, War",2006,6.6,2741.0,Drama,Romance,War
 Jam: The Drama,tv,"Comedy, Drama, Music",2021,6.6,9.0,Comedy,Drama,Music
 Zbrodnia,tv,"Action, Crime",2014,6.3,865.0,Action,Crime,
@@ -105,11 +105,11 @@ The Prince of Tennis - Match! Tennis Juniors,tv,"Drama, Sport",2019,7.3,378.0,Dr
 Çember,tv,"Action, Adventure, Crime",2017,7.2,986.0,Action,Adventure,Crime
 Unconditional,tv,Drama,2020,7.9,21.0,Drama,,
 Camping Coppens,tv,Reality-TV,2021,7.6,13.0,Reality-TV,,
-Newton's Cradle,tv,"Drama, Thriller",2021,7.9,2243.0,Drama,Thriller,
+Newton's Cradle,tv,"Drama, Thriller",2021,7.9,2244.0,Drama,Thriller,
 Pi Mai Pi Mai Tang Tu,tv,Comedy,1990,8.1,25.0,Comedy,,
 The Woman in the Septic Tank 3: The Real Untold Story of Josephine Bracken,tv,"Comedy, Romance",2019,7.5,55.0,Comedy,Romance,
 Trivia Quest,tv,"Adventure, Animation, Family",2022,5.7,279.0,Adventure,Animation,Family
 Battle Kitty,tv,"Action, Adventure, Animation",2022,6.1,363.0,Action,Adventure,Animation
 Sunshine Eyes,tv,Drama,2023,6.8,11.0,Drama,,
 Inside Greggs: 24/7,tv,Documentary,2023,5.1,30.0,Documentary,,
-Das Boot - Die komplette TV-Serie,tv,"Drama, War",1985,8.8,198.0,Drama,War,
+Das Boot - Die komplette TV-Serie,tv,"Drama, War",1985,8.8,199.0,Drama,War,
