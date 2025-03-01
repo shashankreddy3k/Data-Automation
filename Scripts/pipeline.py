@@ -27,27 +27,65 @@ def fetch_data():
 
 # Step 2: Clean the Dataset
 def clean_data():
-    print("Cleaning dataset...")
+    print("\nCleaning dataset...")
     df = pd.read_csv(RAW_DATA_PATH)
-    # Remove rows with missing values
-    df = df.dropna()
+    print(f"Initial row count: {df.shape[0]}")
+
+    # Correct column names based on dataset
+    required_columns = ['title', 'releaseYear', 'imdbAverageRating', 'imdbNumVotes']
+    
+    # Ensure all required columns exist
+    missing_cols = [col for col in required_columns if col not in df.columns]
+    if missing_cols:
+        raise ValueError(f"Missing columns in dataset: {missing_cols}")
+
+    # Drop rows where essential columns are missing
+    df = df.dropna(subset=required_columns)
+    print(f"Row count after dropping nulls in critical columns: {df.shape[0]}")
+
     # Drop unnecessary columns
-    df = df.drop(['availableCountries', 'imdbId'], axis=1)
-    print("Cleaning completed.")
+    columns_to_drop = ['imdbId', 'availableCountries']
+    df = df.drop(columns=[col for col in columns_to_drop if col in df.columns], errors='ignore')
+    print(f"Row count after dropping unnecessary columns: {df.shape[0]}")
+
+    print("Cleaning completed.\n")
     return df
 
 # Step 3: Transform the Dataset
 def transform_data(df):
-    print("Transforming dataset...")
-    # Rename columns
-    df.columns = ['Title', 'Type', 'Genres', 'Year', 'Rating', 'Votes']
-    # Split the 'Genres' column into separate columns
+    print("\nTransforming dataset...")
+    print(f"Row count before transformation: {df.shape[0]}")
+
+    # Rename columns based on actual dataset
+    rename_dict = {
+        'title': 'Title',
+        'type': 'Type',
+        'genres': 'Genres',
+        'releaseYear': 'Year',
+        'imdbAverageRating': 'Rating',
+        'imdbNumVotes': 'Votes'
+    }
+    df = df.rename(columns=rename_dict)
+
+    # Handle missing genres before splitting
+    df['Genres'] = df['Genres'].fillna('Unknown')
+
+    # Split 'Genres' into multiple columns
     genres_split = df['Genres'].str.split(', ', expand=True)
-    genres_split.columns = [f"Genre_{i+1}" for i in range(genres_split.shape[1])]
-    df = pd.concat([df, genres_split], axis=1)
-    # Convert 'Year' column to integer
+
+    # Keep only the first genre and rename it to 'Genre'
+    df['Genre'] = genres_split[0]  # Keep only the first genre
+
+    # Drop unnecessary columns
+    df = df.drop(columns=['Genres'], errors='ignore')
+
+    # Convert 'Year' column to integer safely
+    df['Year'] = pd.to_numeric(df['Year'], errors='coerce')  # Convert invalid years to NaN
+    df = df.dropna(subset=['Year'])  # Drop rows where Year is NaN
     df['Year'] = df['Year'].astype('Int64')
-    print("Transformation completed.")
+
+    print(f"Row count after transformation: {df.shape[0]}")
+    print("Transformation completed.\n")
     return df
 
 # Step 4: Save the Transformed Dataset
