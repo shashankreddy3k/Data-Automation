@@ -27,14 +27,14 @@ Dirty Dancing,movie,1987,7.1,268158.0,Drama
 Indiana Jones and the Last Crusade,movie,1989,8.2,835231.0,Action
 Beverly Hills Cop,movie,1984,7.4,223094.0,Action
 Beverly Hills Cop II,movie,1987,6.6,142931.0,Action
-Gladiator,movie,2000,8.5,1748397.0,Action
+Gladiator,movie,2000,8.5,1748719.0,Action
 All About My Mother,movie,1999,7.8,106260.0,Comedy
 Léon: The Professional,movie,1994,8.5,1296904.0,Action
 Open Hearts,movie,2002,7.5,11263.0,Drama
 Taxi Driver,movie,1976,8.2,972577.0,Crime
 Run Lola Run,movie,1998,7.6,212866.0,Action
 Back to the Future,movie,1985,8.5,1369641.0,Adventure
-Snatch,movie,2000,8.2,942093.0,Comedy
+Snatch,movie,2000,8.2,942200.0,Comedy
 Scarface,movie,1983,8.3,958774.0,Crime
 Italian for Beginners,movie,2000,7.0,14167.0,Comedy
 The Untouchables,movie,1987,7.8,341824.0,Crime
@@ -51,7 +51,7 @@ Donnie Darko,movie,2001,8.0,878605.0,Drama
 Brokeback Mountain,movie,2005,7.7,399362.0,Drama
 Akira,movie,1988,8.0,214671.0,Animation
 48 Hrs.,movie,1982,6.9,89192.0,Action
-The Dark Knight,movie,2008,9.0,3003456.0,Action
+The Dark Knight,movie,2008,9.0,3003845.0,Action
 Ocean's Eleven,movie,2001,7.7,642681.0,Crime
 Ocean's Twelve,movie,2004,6.5,425127.0,Crime
 Back to the Future Part II,movie,1989,7.8,595267.0,Adventure
@@ -68,7 +68,7 @@ Indiana Jones and the Kingdom of the Crystal Skull,movie,2008,6.2,501739.0,Actio
 Volver,movie,2006,7.6,109926.0,Comedy
 Syriana,movie,2005,6.9,136221.0,Drama
 Stand by Me,movie,1986,8.1,461873.0,Adventure
-The Godfather,movie,1972,9.2,2112620.0,Crime
+The Godfather,movie,1972,9.2,2112937.0,Crime
 The Godfather Part II,movie,1974,9.0,1422139.0,Crime
 In China They Eat Dogs,movie,1999,7.3,23730.0,Action
 Ghost,movie,1990,7.1,246958.0,Drama
@@ -76,7 +76,7 @@ Willy Wonka & the Chocolate Factory,movie,1971,7.8,236034.0,Adventure
 King Kong,movie,2005,7.2,457848.0,Action
 Live Flesh,movie,1997,7.3,34675.0,Drama
 Batman Begins,movie,2005,8.2,1638620.0,Action
-The Shawshank Redemption,movie,1994,9.3,3027155.0,Drama
+The Shawshank Redemption,movie,1994,9.3,3027611.0,Drama
 Terminator 2: Judgment Day,movie,1991,8.6,1225755.0,Action
 A River Runs Through It,movie,1992,7.2,67554.0,Drama
 Terminator 3: Rise of the Machines,movie,2003,6.3,427250.0,Action
@@ -170,7 +170,7 @@ Harry Potter and the Chamber of Secrets,movie,2002,7.4,725534.0,Adventure
 Harry Potter and the Prisoner of Azkaban,movie,2004,7.9,725427.0,Adventure
 Harry Potter and the Goblet of Fire,movie,2005,7.7,713744.0,Adventure
 Harry Potter and the Order of the Phoenix,movie,2007,7.5,662945.0,Action
-Pulp Fiction,movie,1994,8.9,2322674.0,Crime
+Pulp Fiction,movie,1994,8.9,2322964.0,Crime
 Meet the Fockers,movie,2004,6.3,294572.0,Comedy
 The Piano,movie,1993,7.5,98060.0,Drama
 Together,movie,2000,7.4,24975.0,Comedy
@@ -469,7 +469,7 @@ Life Is a Long Quiet River,movie,1988,6.8,4897.0,Comedy
 The Flower of My Secret,movie,1995,7.0,13324.0,Comedy
 Charlie's Angels,movie,2000,5.6,201538.0,Action
 Atonement,movie,2007,7.8,312390.0,Drama
-Pride & Prejudice,movie,2005,7.8,349211.0,Drama
+Pride & Prejudice,movie,2005,7.8,349284.0,Drama
 The Kingdom,movie,2007,7.0,134802.0,Action
 The Lady Banker,movie,1980,6.2,885.0,Comedy
 Monster-in-Law,movie,2005,5.6,67221.0,Comedy
@@ -2497,7 +2497,7 @@ Sing,movie,2016,7.1,201716.0,Animation
 The Age of Adaline,movie,2015,7.2,218695.0,Drama
 Pokémon the Movie: Secrets of the Jungle,movie,2020,6.4,2721.0,Action
 The Room Next Door,movie,2024,6.8,18731.0,Drama
-It Ends with Us,movie,2024,6.4,83057.0,Drama
+It Ends with Us,movie,2024,6.4,83157.0,Drama
 "When Morning Comes, I Feel Empty",movie,2022,6.8,51.0,Drama
 Smugglers,movie,2023,6.2,1843.0,Action
 Sinister,movie,2012,6.8,297653.0,Horror
@@ -3029,7 +3029,7 @@ Boy Kills World,movie,2023,6.4,35194.0,Action
 Fujimi Lovers,movie,2024,6.0,47.0,Romance
 The Outrun,movie,2024,6.9,14655.0,Drama
 The Summer,movie,2023,7.3,48.0,Animation
-The Hunger Games: The Ballad of Songbirds & Snakes,movie,2023,6.7,156527.0,Action
+The Hunger Games: The Ballad of Songbirds & Snakes,movie,2023,6.7,156707.0,Action
 Love Child,movie,2024,6.7,75.0,Drama
 Harold and the Purple Crayon,movie,2024,5.7,8061.0,Adventure
 Blood for Dust,movie,2023,5.2,2124.0,Action
@@ -4691,7 +4691,7 @@ One More Try,movie,2012,6.1,240.0,Drama
 Spring and Port Wine,movie,1970,7.0,1063.0,Drama
 The Police Commissioner,movie,1962,6.8,315.0,Comedy
 ABCD (Any Body Can Dance),movie,2013,6.3,7708.0,Drama
-Interstellar,movie,2014,8.7,2323457.0,Adventure
+Interstellar,movie,2014,8.7,2324063.0,Adventure
 Transcendence,movie,2014,6.2,242582.0,Drama
 Kill Your Darlings,movie,2013,6.4,42337.0,Biography
 Oculus,movie,2013,6.5,144680.0,Horror
@@ -7818,7 +7818,7 @@ Grillo vs Grillo,movie,2017,5.4,134.0,Comedy
 Teen Spirit,movie,2018,6.1,10039.0,Drama
 The Best of All Worlds,movie,2017,7.6,1154.0,Biography
 Naam Shabana,movie,2017,6.2,7708.0,Action
-Hantu Gunung Kawi,movie,2017,4.6,37.0,Horror
+Hantu Gunung Kawi,movie,2017,4.6,37.0,Comedy
 Chavela,movie,2017,7.7,1201.0,Biography
 Turning Mecards W: Resurrection of the Black Mirror,movie,2017,7.5,25.0,Adventure
 Unusual Tales,movie,1949,5.8,258.0,Horror
@@ -7922,7 +7922,7 @@ Qu'est-ce qui fait courir les crocodiles?,movie,1971,3.5,71.0,Comedy
 A Family Affair,movie,1984,6.5,98.0,Comedy
 Jo Koy: Live from Seattle,movie,2017,7.3,1698.0,Comedy
 Vivo,movie,2021,6.7,22531.0,Adventure
-Den of Thieves,movie,2018,7.0,140171.0,Action
+Den of Thieves,movie,2018,7.0,140324.0,Action
 The Vanishing,movie,2018,5.9,21754.0,Drama
 Kalushi: The Story of Solomon Mahlangu,movie,2016,6.6,485.0,Biography
 In Time to Come,movie,2017,5.0,23.0,Documentary
@@ -11077,7 +11077,7 @@ Clean,movie,2021,5.6,12307.0,Action
 Dangerous Lies,movie,2020,5.4,19447.0,Crime
 Stop Filming Us,movie,2020,7.8,116.0,Documentary
 Murder to Mercy: The Cyntoia Brown Story,movie,2020,6.4,3187.0,Documentary
-"Best Wishes, Warmest Regards: A Schitt's Creek Farewell",movie,2020,8.6,1855.0,Documentary
+"Best Wishes, Warmest Regards: A Schitt's Creek Farewell",movie,2020,8.6,1855.0,Unknown
 Benidorm: 10 Years on Holiday,movie,2018,7.4,98.0,Documentary
 When You Finish Saving the World,movie,2022,5.6,5376.0,Comedy
 Once Again,movie,2019,5.7,284.0,Comedy
@@ -11959,7 +11959,7 @@ Mad Dog,movie,2021,5.8,510.0,Drama
 Blueback,movie,2022,6.0,1442.0,Adventure
 Irul,movie,2021,5.8,3783.0,Horror
 The Exorcist: Believer,movie,2023,4.8,46181.0,Horror
-Boiling Point,movie,2021,7.5,48363.0,Drama
+Boiling Point,movie,2021,7.5,48423.0,Drama
 Ritsa,movie,2021,5.5,250.0,Drama
 Watcher,movie,2022,6.3,56022.0,Drama
 Who's the Boss,movie,2020,5.9,47.0,Comedy
@@ -14972,6 +14972,7 @@ Nayanthara: Beyond the Fairy Tale,movie,2024,3.8,733.0,Documentary
 Maybe Baby 2,movie,2024,5.7,532.0,Comedy
 Chhota Bheem Aur Mahavinashini ka Vinaash,movie,2022,5.7,18.0,Animation
 Azaad,movie,2025,4.8,1277.0,Action
+Babah,movie,2024,7.0,105.0,Drama
 Don't Look Back... I Know Your Origins,movie,2024,4.5,75.0,Horror
 Disaster Holiday,movie,2024,4.8,687.0,Comedy
 Veer Bahadur Bheem,movie,2022,5.6,19.0,Animation
@@ -15023,9 +15024,11 @@ Oyunda Kal: Eglence Arenasi,movie,2024,2.7,35.0,Adventure
 A Copenhagen Love Story,movie,2025,6.3,1356.0,Drama
 "Magma - Mattarella, il delitto perfetto",movie,2025,8.0,14.0,Crime
 Andrew Schulz: Life,movie,2025,7.7,1558.0,Comedy
+Chelsea Handler: The Feeling,movie,2025,5.7,340.0,Comedy
 The Twister: Caught in the Storm,movie,2025,6.8,2785.0,Documentary
 Bert Kreischer: Lucky,movie,2025,6.3,507.0,Comedy
 Kevin Hart: The Kennedy Center Mark Twain Prize for American Humor,movie,2024,6.6,797.0,Comedy
+Con Mum,movie,2025,6.6,972.0,Crime
 Por,movie,2024,5.0,609.0,Action
 One Piece Fan Letter,movie,2024,9.2,18520.0,Action
 Novecento: il secolo estremo,movie,2009,4.1,9.0,Documentary
@@ -15060,14 +15063,14 @@ Mad Men,tv,2007,8.7,273441.0,Drama
 The Graham Norton Show,tv,2007,8.4,13750.0,Comedy
 Six Feet Under,tv,2001,8.7,157780.0,Comedy
 Gossip Girl,tv,2007,7.5,204805.0,Drama
-Breaking Bad,tv,2008,9.5,2307159.0,Crime
+Breaking Bad,tv,2008,9.5,2307701.0,Crime
 Seinfeld,tv,1989,8.9,367145.0,Comedy
 The Walking Dead,tv,2010,8.1,1134441.0,Drama
-Dexter,tv,2006,8.6,835064.0,Crime
-House,tv,2004,8.7,553232.0,Drama
+Dexter,tv,2006,8.6,835340.0,Crime
+House,tv,2004,8.7,553359.0,Drama
 Arrow,tv,2012,7.5,453222.0,Action
-Grey's Anatomy,tv,2005,7.6,357356.0,Drama
-The Big Bang Theory,tv,2007,8.1,903829.0,Comedy
+Grey's Anatomy,tv,2005,7.6,357407.0,Drama
+The Big Bang Theory,tv,2007,8.1,903930.0,Comedy
 Orange Is the New Black,tv,2013,8.0,327931.0,Comedy
 House of Cards,tv,2013,8.6,545190.0,Drama
 Attack on Titan,tv,2013,9.1,597657.0,Action
@@ -15076,8 +15079,8 @@ WWE Smackdown!,tv,1999,7.3,7380.0,Action
 Home Improvement,tv,1991,7.2,51069.0,Comedy
 The Adventures of Tintin,tv,1991,8.3,19831.0,Action
 Justice League,tv,2001,8.5,54487.0,Action
-Supernatural,tv,2005,8.4,508371.0,Drama
-Friends,tv,1994,8.9,1138262.0,Comedy
+Supernatural,tv,2005,8.4,508482.0,Drama
+Friends,tv,1994,8.9,1138405.0,Comedy
 Project Runway,tv,2004,7.4,11861.0,Reality-TV
 The Bernie Mac Show,tv,2001,7.2,8860.0,Comedy
 Monk,tv,2002,8.1,98039.0,Comedy
@@ -15098,11 +15101,11 @@ Saiyûki,tv,2006,6.6,75.0,Action
 H2O: Just Add Water,tv,2006,7.3,19695.0,Adventure
 Orange Days,tv,2004,8.0,1124.0,Drama
 Aquí no hay quien viva,tv,2003,8.2,5228.0,Comedy
-Prison Break,tv,2005,8.3,621954.0,Action
+Prison Break,tv,2005,8.3,622104.0,Action
 The Thin Blue Line,tv,1995,7.5,8546.0,Comedy
 Thomas & Friends,tv,1984,6.5,7227.0,Adventure
 The Jamie Foxx Show,tv,1996,6.8,3882.0,Comedy
-The Office,tv,2005,9.0,768811.0,Comedy
+The Office,tv,2005,9.0,768971.0,Comedy
 Mighty Morphin Power Rangers,tv,1993,6.6,25440.0,Action
 Hell's Kitchen,tv,2005,7.2,23581.0,Game-Show
 Girlfriends,tv,2000,7.4,5282.0,Comedy
@@ -15115,8 +15118,8 @@ Dirty Jobs,tv,2005,7.7,9752.0,Reality-TV
 Deadliest Catch,tv,2005,7.8,9549.0,Adventure
 Il était une fois... la vie,tv,1987,8.2,5799.0,Animation
 My Wife and Kids,tv,2000,6.9,30674.0,Comedy
-It's Always Sunny in Philadelphia,tv,2005,8.8,264609.0,Comedy
-Law & Order: Special Victims Unit,tv,1999,8.1,135254.0,Crime
+It's Always Sunny in Philadelphia,tv,2005,8.8,264650.0,Comedy
+Law & Order: Special Victims Unit,tv,1999,8.1,135286.0,Crime
 Totally Spies!,tv,2001,7.1,13770.0,Action
 SeaChange,tv,1998,8.0,1269.0,Comedy
 Life on Mars,tv,2006,8.4,33787.0,Crime
@@ -15133,9 +15136,9 @@ My Fair Princess,tv,1998,7.8,1412.0,Action
 Mr. Bean,tv,1990,8.6,141599.0,Comedy
 Gilmore Girls,tv,2000,8.2,160294.0,Comedy
 Arrested Development,tv,2003,8.7,333700.0,Comedy
-Lost,tv,2004,8.3,636448.0,Adventure
+Lost,tv,2004,8.3,636584.0,Adventure
 Band of Brothers,tv,2001,9.4,558076.0,Action
-NCIS,tv,2003,7.8,170007.0,Action
+NCIS,tv,2003,7.8,170031.0,Action
 Ugly Betty,tv,2006,6.8,49370.0,Comedy
 The Fairly OddParents,tv,2001,7.2,49155.0,Adventure
 WWE Raw,tv,1993,7.7,10325.0,Action
@@ -15150,6 +15153,7 @@ Fireman Sam,tv,1987,6.1,2363.0,Animation
 iCarly,tv,2007,6.8,47163.0,Comedy
 Turkish for Beginners,tv,2006,7.5,4990.0,Comedy
 Goosebumps,tv,1995,7.6,16036.0,Adventure
+FLCL,tv,2000,8.1,20706.0,Action
 The Legend of Bruce Lee,tv,2008,6.8,1634.0,Action
 Kisarazu Cat's Eye,tv,2002,8.0,247.0,Comedy
 Stromberg,tv,2004,8.4,10158.0,Comedy
@@ -15183,8 +15187,10 @@ Intervention,tv,2005,7.9,3135.0,Documentary
 Pasión de gavilanes,tv,2003,7.8,3136.0,Drama
 Gantz,tv,2004,7.1,9123.0,Action
 Benidorm,tv,2007,7.5,7842.0,Comedy
+See No Evil: The Moors Murders,tv,2006,7.0,1837.0,Crime
 Space Goofs,tv,1997,6.8,622.0,Animation
 "Berlin, Berlin",tv,2002,7.3,884.0,Comedy
+Piano,tv,2001,6.7,30.0,Drama
 Peppa Pig,tv,2004,6.3,7301.0,Adventure
 Dragon Ball,tv,1986,8.5,71640.0,Action
 Outnumbered,tv,2007,8.1,12996.0,Comedy
@@ -15195,7 +15201,9 @@ Flipping Out,tv,2007,7.0,1340.0,Reality-TV
 Dennou Coil,tv,2007,7.7,1047.0,Adventure
 Inspector George Gently,tv,2007,8.1,9142.0,Crime
 He Who Can't Marry,tv,2006,8.0,1265.0,Comedy
+What Happened in Bali,tv,2004,7.5,316.0,Drama
 Death Note,tv,2006,8.9,418880.0,Animation
+Lovers in Paris,tv,2004,7.4,171.0,Comedy
 Secret Diary of a Call Girl,tv,2007,7.3,14744.0,Drama
 All In,tv,2003,7.8,494.0,Action
 Spring Days,tv,2005,7.4,58.0,Romance
@@ -15220,6 +15228,7 @@ Scooby-Doo! Mystery Incorporated,tv,2010,8.2,19967.0,Adventure
 The Vampire Diaries,tv,2009,7.7,364938.0,Drama
 Community,tv,2009,8.5,302490.0,Comedy
 The Garfield Show,tv,2008,5.7,3833.0,Adventure
+On Air,tv,2008,7.8,39.0,Drama
 Temptation of Wife,tv,2008,6.9,113.0,Drama
 Three Kingdoms,tv,2010,8.3,1451.0,Drama
 The Search,tv,2020,5.7,760.0,Crime
@@ -15264,7 +15273,9 @@ Monster,tv,2004,8.7,55552.0,Animation
 Detective Conan,tv,1996,8.5,16457.0,Action
 Bleach,tv,2004,8.2,80459.0,Action
 Cowboy Bebop,tv,1998,8.9,152248.0,Action
+Shining Inheritance,tv,2009,7.5,1036.0,Comedy
 Regular Show,tv,2010,8.5,65656.0,Action
+City Hall,tv,2009,7.4,215.0,Comedy
 Victorious,tv,2010,7.0,31602.0,Comedy
 "Xia Yi Zhan, Xing Fu",tv,2009,7.8,615.0,Drama
 Das Haus Anubis,tv,2009,4.9,307.0,Adventure
@@ -15315,7 +15326,6 @@ Rake,tv,2010,8.5,9020.0,Comedy
 Friday Night Dinner,tv,2011,8.2,23971.0,Comedy
 Chloe's Closet,tv,2009,7.3,104.0,Adventure
 Sungkyunkwan Scandal,tv,2010,7.8,2005.0,Comedy
-The Great British Baking Show,tv,2010,8.6,14135.0,Game-Show
 Gold Rush,tv,2010,7.2,5773.0,Reality-TV
 Blade of the Immortal,tv,2008,6.7,763.0,Action
 Claymore,tv,2007,8.0,16045.0,Action
@@ -15333,6 +15343,7 @@ Zatch Bell!,tv,2003,7.2,1247.0,Action
 Berserk,tv,1997,8.7,64413.0,Action
 City Hunter,tv,1987,7.7,1740.0,Action
 Be Nice to People,tv,2002,7.4,47.0,Drama
+Lovers in Prague,tv,2005,7.4,79.0,Romance
 Yamato nadeshiko,tv,2000,7.9,190.0,Comedy
 Kurokawa no techou,tv,2004,7.5,37.0,Drama
 Fruits Basket,tv,2001,7.8,6446.0,Animation
@@ -15347,7 +15358,7 @@ The Voice,tv,2011,6.5,13735.0,Game-Show
 Suits,tv,2011,8.4,511554.0,Comedy
 Startling by Each Step,tv,2011,7.9,672.0,Drama
 Dream High,tv,2011,7.6,3937.0,Comedy
-One Piece,tv,1999,9.0,289479.0,Action
+One Piece,tv,1999,9.0,289646.0,Action
 Fullmetal Alchemist,tv,2003,8.5,81563.0,Action
 American Ninja Warrior,tv,2009,6.8,4539.0,Action
 Tiger & Dragon,tv,2005,7.8,564.0,Comedy
@@ -15422,6 +15433,7 @@ My Phone Genie,tv,2012,6.7,34.0,Comedy
 Magic Kaito,tv,2010,7.2,430.0,Adventure
 The Innocent Man,tv,2012,7.6,2451.0,Drama
 The Bridge,tv,2011,8.6,80657.0,Crime
+Fashion King,tv,2012,5.7,307.0,Drama
 "Tayo, the Little Bus",tv,2010,5.3,229.0,Animation
 Teen Titans Go!,tv,2013,5.7,26657.0,Adventure
 Space Brothers,tv,2012,8.2,612.0,Animation
@@ -15429,6 +15441,7 @@ Chihayafuru,tv,2011,8.1,1683.0,Animation
 Rookies,tv,2008,7.7,283.0,Drama
 Ushijima the Loan Shark,tv,2010,7.1,121.0,Comedy
 The Moon Embracing the Sun,tv,2012,7.9,3760.0,Drama
+Swallow the Sun,tv,2009,7.7,101.0,Drama
 Dog of Flanders,tv,1975,7.9,330.0,Animation
 Jam: The Drama,tv,2021,6.6,9.0,Comedy
 Sam & Cat,tv,2013,5.7,12757.0,Comedy
@@ -15446,9 +15459,10 @@ Fairy Tail,tv,2009,7.9,30166.0,Action
 Hunter x Hunter,tv,2011,9.0,160239.0,Action
 Yakitate!! Japan,tv,2004,7.7,520.0,Animation
 Dr. Coto's Clinic,tv,2003,7.5,126.0,Drama
-Redfern Now,tv,2012,7.9,693.0,Drama
 Kingdom,tv,2012,8.7,4460.0,Action
 MeatEater,tv,2012,7.6,1707.0,Documentary
+Tazza,tv,2008,7.8,99.0,Action
+New Tales of the Gisaeng,tv,2011,7.6,63.0,Drama
 Janet King,tv,2014,7.7,2732.0,Crime
 A Lion in the House,tv,2006,8.8,406.0,Documentary
 The Blacklist,tv,2013,7.9,288728.0,Crime
@@ -15457,6 +15471,7 @@ Midnight Diner,tv,2009,8.6,3452.0,Comedy
 Vicious,tv,2013,8.1,10363.0,Comedy
 "That Winter, the Wind Blows",tv,2013,7.5,2535.0,Drama
 The Bridge,tv,2013,7.6,20849.0,Crime
+"Jang Ok-jung, Living by Love",tv,2013,7.5,333.0,Drama
 Low Winter Sun,tv,2013,7.0,6131.0,Crime
 Into the Badlands,tv,2015,7.9,51147.0,Action
 The Tom and Jerry Show,tv,2011,7.2,4141.0,Adventure
@@ -15598,6 +15613,7 @@ Boruto: Naruto Next Generations,tv,2017,6.4,31493.0,Action
 The Cage,tv,2024,6.5,2410.0,Biography
 Comedy Revenge,tv,2024,6.2,34.0,Comedy
 Son of a Critch,tv,2022,7.2,1447.0,Comedy
+"Don't Toy with Me, Miss Nagatoro",tv,2021,7.1,5430.0,Animation
 Busted!,tv,2018,7.7,1336.0,Comedy
 The Girl I Like Forgot Her Glasses,tv,2023,6.6,933.0,Animation
 Nina the Starry Bride,tv,2024,5.9,842.0,Animation
@@ -15606,6 +15622,7 @@ Evil,tv,2019,7.8,47658.0,Crime
 Natsume's Book of Friends,tv,2008,8.1,2868.0,Animation
 Seirei Gensouki: Spirit Chronicles,tv,2021,7.2,2665.0,Action
 One Hundred Years of Solitude,tv,2024,8.3,15352.0,Drama
+A Terrified Teacher at Ghoul School!,tv,2024,5.9,151.0,Animation
 TASUKETSU -Fate of the Majority-,tv,2024,5.1,103.0,Action
 Blue Box,tv,2024,7.8,3486.0,Animation
 Plus-Sized Elf,tv,2024,5.1,200.0,Animation
@@ -15623,6 +15640,7 @@ Light of My Lion,tv,2024,8.2,379.0,Drama
 The Uncanny Counter,tv,2020,8.0,13198.0,Action
 I Am Not Okay with This,tv,2020,7.5,78329.0,Comedy
 Fate: The Winx Saga,tv,2021,6.8,61323.0,Action
+Spirit Riding Free,tv,2017,6.5,1253.0,Action
 Man vs. Bee,tv,2022,6.7,35626.0,Comedy
 Dumas,tv,2024,8.0,71.0,Crime
 Snowpiercer,tv,2020,6.9,70107.0,Action
@@ -15668,7 +15686,7 @@ Days with My Stepsister,tv,2024,7.0,1158.0,Animation
 Monster High,tv,2022,6.3,616.0,Animation
 Is It Wrong to Try to Pick Up Girls in a Dungeon?,tv,2015,7.4,12147.0,Action
 A Time Called You,tv,2023,7.9,5493.0,Drama
-Ghosts,tv,2021,7.9,39193.0,Comedy
+Ghosts,tv,2021,7.9,39234.0,Comedy
 Shi Xiao,tv,2024,7.7,108.0,Drama
 ID-0,tv,2017,6.1,378.0,Action
 Banana Fish,tv,2018,8.1,10022.0,Action
@@ -15881,6 +15899,7 @@ F Is for Family,tv,2015,8.0,42735.0,Animation
 Documentary Now!,tv,2015,8.1,8315.0,Comedy
 Young Doctors,tv,2015,5.6,192.0,Drama
 Fuller House,tv,2016,6.7,30300.0,Comedy
+One Warm Word,tv,2013,7.0,82.0,Drama
 Utopia,tv,2014,8.3,3277.0,Comedy
 Alone,tv,2015,8.4,8295.0,Documentary
 Lady of Steel,tv,2014,6.7,525.0,Crime
@@ -15951,6 +15970,7 @@ Underwear,tv,2015,7.2,1055.0,Comedy
 American Ninja Warrior: Ninja vs Ninja,tv,2016,8.0,132.0,Action
 The Red Band Society,tv,2014,7.3,332.0,Drama
 The Break,tv,2016,7.6,6866.0,Crime
+My Teen Romantic Comedy SNAFU,tv,2013,7.9,10537.0,Animation
 Good Morning Call,tv,2016,7.4,3838.0,Comedy
 Taboo,tv,2017,8.3,155362.0,Drama
 Marriage Contract,tv,2016,7.5,1232.0,Drama
@@ -16144,6 +16164,7 @@ TIME: The Kalief Browder Story,tv,2017,8.4,2973.0,Biography
 Riviera,tv,2017,6.7,9356.0,Drama
 Five Came Back,tv,2017,8.2,5449.0,Biography
 Salvation,tv,2017,6.9,25086.0,Drama
+The Replacement,tv,2017,6.5,3326.0,Crime
 Dark,tv,2017,8.7,486282.0,Crime
 GLOW,tv,2017,8.0,52547.0,Comedy
 The Perfect Match,tv,2017,7.1,295.0,Romance
@@ -16163,6 +16184,7 @@ Ingobernable,tv,2017,7.0,3571.0,Crime
 "Rich House, Poor House",tv,2017,6.6,154.0,Documentary
 Castlevania,tv,2017,8.3,88097.0,Action
 Super Wings,tv,2015,6.0,467.0,Adventure
+A las once en casa,tv,1998,3.9,136.0,Comedy
 Troy: Fall of a City,tv,2018,4.1,15971.0,Action
 Cable Girls,tv,2017,7.5,16896.0,Drama
 CRISIS: Special Security Squad,tv,2017,6.9,326.0,Action
@@ -16251,7 +16273,6 @@ Godless,tv,2017,8.2,85098.0,Action
 The Magic School Bus Rides Again,tv,2017,6.3,984.0,Adventure
 Warrior,tv,2019,8.4,49456.0,Action
 Odd Squad,tv,2014,7.3,1689.0,Action
-Gunpowder,tv,2017,6.5,12282.0,Drama
 "Legacy, a Kate McDougal Investigation",tv,2016,6.2,84.0,Crime
 Temperature of Love,tv,2017,7.0,711.0,Comedy
 Wormwood,tv,2017,7.0,4898.0,Biography
@@ -16282,6 +16303,7 @@ Paul Hollywood's Big Continental Road Trip,tv,2017,7.4,268.0,Documentary
 Das Pubertier,tv,2017,5.0,113.0,Family
 Kulipari,tv,2016,6.7,321.0,Action
 Hey Duggee,tv,2014,8.8,1560.0,Animation
+Sweet Enemy,tv,2017,6.9,10.0,Drama
 Die Frau vom Checkpoint Charlie,tv,2007,6.2,361.0,Drama
 In the Long Run,tv,2017,7.4,1421.0,Comedy
 Grizzy and the Lemmings,tv,2016,7.2,1131.0,Adventure
@@ -16295,7 +16317,7 @@ Carmen Sandiego,tv,2019,7.9,7588.0,Action
 Brother - Black Power,tv,2017,6.7,179.0,Crime
 Deadwind,tv,2018,7.3,14200.0,Crime
 Prison Playbook,tv,2017,8.4,5518.0,Comedy
-Just Between Lovers,tv,2017,8.1,3646.0,Drama
+Rain or Shine,tv,2017,8.1,3646.0,Drama
 Nothing to Lose,tv,2017,6.6,209.0,Drama
 Beyond Stranger Things,tv,2017,7.4,2270.0,Documentary
 The Big Family Cooking Showdown,tv,2017,7.0,769.0,Reality-TV
@@ -16381,6 +16403,7 @@ Vida,tv,2018,7.4,3967.0,Comedy
 Rapture,tv,2018,7.1,607.0,Documentary
 The Joel McHale Show with Joel McHale,tv,2018,7.1,2554.0,Comedy
 First Team: Juventus,tv,2018,7.2,2230.0,Documentary
+Lekarze na start,tv,2017,6.1,11.0,Drama
 Re: Mind,tv,2017,5.0,1970.0,Horror
 Cobra Kai,tv,2018,8.4,229102.0,Action
 A Discovery of Witches,tv,2018,7.8,68181.0,Drama
@@ -16492,6 +16515,7 @@ Sugar Rush,tv,2018,7.0,1807.0,Game-Show
 New Amsterdam,tv,2018,7.9,53122.0,Drama
 The Comedy Lineup,tv,2018,6.0,579.0,Comedy
 Legend of Yun Xi,tv,2018,7.4,560.0,Fantasy
+Stath Lets Flats,tv,2018,7.6,5488.0,Comedy
 Mr. Tonegawa: Middle Management Blues,tv,2018,7.0,197.0,Animation
 Ainori Love Wagon: Asian Journey,tv,2017,7.0,356.0,Game-Show
 The Conners,tv,2018,5.9,13588.0,Comedy
@@ -16506,11 +16530,13 @@ Ghoul,tv,2018,7.0,15584.0,Drama
 My ID Is Gangnam Beauty,tv,2018,7.2,7217.0,Comedy
 Insatiable,tv,2018,6.5,34313.0,Comedy
 On Children,tv,2018,7.4,488.0,Drama
+Crime Patrol,tv,2003,7.8,1699.0,Crime
 Ultraman,tv,2019,6.8,2778.0,Action
 The Epic Tales of Captain Underpants,tv,2018,6.7,1333.0,Action
 13 Reasons Why: Beyond the Reasons,tv,2017,6.2,406.0,Documentary
 Still 17,tv,2018,7.8,3918.0,Comedy
 Treehouse Detectives,tv,2018,7.7,100.0,Animation
+Your Honor,tv,2018,7.6,411.0,Drama
 Narcos: Mexico,tv,2018,8.3,97196.0,Crime
 Amazing Interiors,tv,2018,6.6,906.0,Documentary
 Dark Tourist,tv,2018,7.4,8400.0,Adventure
@@ -16714,7 +16740,6 @@ Conversations with a Killer: The Ted Bundy Tapes,tv,2019,7.7,33923.0,Biography
 Rust Valley Restorers,tv,2018,7.7,3552.0,Documentary
 Ultramarine Magmell,tv,2019,6.0,934.0,Action
 Wise Man's Grandchild,tv,2019,6.9,3797.0,Action
-Temptation Island,tv,2019,6.1,1553.0,Game-Show
 Space Force,tv,2020,6.7,73228.0,Comedy
 Demon Slayer: Kimetsu no Yaiba,tv,2019,8.6,182943.0,Action
 7Seeds,tv,2019,6.3,1951.0,Action
@@ -16979,7 +17004,7 @@ Breeders,tv,2020,7.6,9122.0,Comedy
 Monarca,tv,2019,7.8,3835.0,Drama
 Archibald's Next Big Thing,tv,2019,7.5,357.0,Adventure
 Raising Dion,tv,2019,7.1,17161.0,Drama
-Squid Game,tv,2021,8.0,655605.0,Action
+Squid Game,tv,2021,8.0,655893.0,Action
 The Serpent,tv,2021,7.6,52382.0,Crime
 Jupiter's Legacy,tv,2021,6.7,41817.0,Action
 My Country: The New Age,tv,2019,8.1,2908.0,Action
@@ -17032,7 +17057,7 @@ Sergio & Axel: van de kaart,tv,2019,7.2,33.0,Reality-TV
 The Twelve,tv,2019,7.4,6909.0,Drama
 Merry Happy Whatever,tv,2019,6.3,5672.0,Comedy
 Andes Mágicos,tv,2019,7.7,669.0,Documentary
-Arcane,tv,2021,9.0,387709.0,Action
+Arcane,tv,2021,9.0,387906.0,Action
 "Breakfast, Lunch & Dinner",tv,2019,6.7,1185.0,Documentary
 The Unlisted,tv,2019,6.6,1543.0,Crime
 VIP,tv,2019,7.4,569.0,Drama
@@ -17063,6 +17088,7 @@ Hyena,tv,2020,7.6,1301.0,Drama
 Nobody's Looking,tv,2019,7.7,2612.0,Comedy
 No Time for Shame,tv,2019,5.6,100.0,Reality-TV
 To the Lake,tv,2019,7.2,16079.0,Drama
+Wanna Taste?,tv,2019,6.8,11.0,Drama
 Diary of a Prosecutor,tv,2019,7.9,568.0,Drama
 Dare Me,tv,2019,6.7,6708.0,Crime
 Toilet-bound Hanako-kun,tv,2020,7.4,2960.0,Animation
@@ -17114,7 +17140,6 @@ Around the World in 80 Days,tv,2021,7.2,12819.0,Adventure
 Luna Nera,tv,2020,5.9,3640.0,Drama
 The Gift,tv,2019,7.0,25040.0,Drama
 Little J & Big Cuz,tv,2017,8.2,45.0,Animation
-Hillary,tv,2020,7.0,2712.0,Biography
 "Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense",tv,2020,7.4,2767.0,Action
 The Neighbor,tv,2019,6.5,2535.0,Action
 It's Okay to Not Be Okay,tv,2020,8.6,40334.0,Comedy
@@ -17263,7 +17288,6 @@ She,tv,2020,6.4,6673.0,Crime
 Buddi,tv,2020,6.9,75.0,Adventure
 Outer Banks,tv,2020,7.5,94188.0,Action
 J-Style Trip,tv,2020,5.0,135.0,Reality-TV
-Revelation,tv,2020,7.8,2150.0,Crime
 Tunnel,tv,2019,8.3,94.0,Crime
 Never Have I Ever,tv,2020,7.8,86966.0,Comedy
 Love 101,tv,2020,7.4,18364.0,Comedy
@@ -17630,7 +17654,7 @@ Ore no Ie no Hanashi,tv,2021,7.6,301.0,Comedy
 Nijiiro Carte,tv,2021,7.1,29.0,Drama
 Vincenzo,tv,2021,8.4,33842.0,Action
 Hell's Paradise: Jigokuraku,tv,2023,8.1,19460.0,Action
-Yellowjackets,tv,2021,7.7,102329.0,Drama
+Yellowjackets,tv,2021,7.7,102405.0,Drama
 IDOLiSH7 Vibrato,tv,2018,8.1,44.0,Music
 Ginny & Georgia,tv,2021,7.4,90035.0,Comedy
 Canine Intervention,tv,2021,6.7,998.0,Documentary
@@ -17683,6 +17707,7 @@ City of Ghosts,tv,2021,7.7,476.0,Adventure
 Spirit Rangers,tv,2022,6.8,262.0,Action
 Zero,tv,2021,5.8,1583.0,Action
 Revolutionary Sisters,tv,2021,6.2,70.0,Comedy
+I Survived a Crime,tv,2021,6.3,169.0,Crime
 Let's Fight Ghost,tv,2021,6.7,180.0,Fantasy
 Worn Stories,tv,2021,6.7,358.0,Documentary
 Nevenka: Breaking the Silence,tv,2021,6.9,816.0,Crime
@@ -17695,7 +17720,6 @@ Marnow Murders,tv,2021,7.3,1129.0,Crime
 A Perfect Day for Arsenide,tv,2020,5.3,38.0,Romance
 Akuma Kun,tv,2023,6.4,628.0,Adventure
 Navarasa,tv,2021,5.8,3864.0,Drama
-Kate Humble's Coastal Britain,tv,2021,7.7,51.0,Documentary
 This Is a Robbery: The World's Greatest Art Heist,tv,2021,6.5,4975.0,Crime
 Haunted: Latin America,tv,2021,5.3,721.0,Horror
 Zero Chill,tv,2021,5.7,2024.0,Comedy
@@ -17861,6 +17885,7 @@ Sexy Beasts,tv,2021,4.7,1351.0,Reality-TV
 Too Hot to Handle: Brazil,tv,2021,5.4,698.0,Game-Show
 The Snitch Cartel: Origins,tv,2021,6.0,293.0,Crime
 Tattoo Redo,tv,2021,5.9,990.0,Reality-TV
+Transformers: War for Cybertron Trilogy,tv,2020,7.2,4409.0,Action
 I Need Romance,tv,2021,7.5,97.0,Romance
 Myth & Mogul: John DeLorean,tv,2021,6.8,1392.0,Biography
 High: Confessions of an Ibiza Drug Mule,tv,2021,6.1,1457.0,Crime
@@ -18251,10 +18276,12 @@ Copycat Killer,tv,2023,7.0,2552.0,Crime
 Pedal to Metal,tv,2022,7.0,118.0,Action
 The Marked Heart,tv,2022,6.6,4398.0,Drama
 Doppelhaushälfte,tv,2022,7.6,884.0,Comedy
+Silverpoint,tv,2022,7.1,1026.0,Family
 The Ultimatum: Marry or Move On,tv,2022,5.5,3047.0,Reality-TV
 The Last Bus,tv,2022,5.3,953.0,Adventure
 Endless Night,tv,2022,5.3,232.0,Drama
 Maktoub Aliya,tv,2022,6.9,613.0,Comedy
+The Walking Dead: Dead City,tv,2023,7.1,27685.0,Adventure
 A Family Affair,tv,2022,5.0,40.0,Action
 Ruxx,tv,2022,6.5,844.0,Comedy
 Super PupZ,tv,2022,5.7,190.0,Adventure
@@ -18338,6 +18365,7 @@ Master of My Own,tv,2022,7.6,194.0,Drama
 The Real Bling Ring: Hollywood Heist,tv,2022,5.8,2360.0,Crime
 Matt Wright's Wild Territory,tv,2022,7.9,59.0,Documentary
 The Escape of the Seven,tv,2023,6.1,623.0,Drama
+Weak Hero Class 1,tv,2022,8.5,10088.0,Action
 Love on the Spectrum U.S.,tv,2022,8.3,3677.0,Comedy
 Be Reborn,tv,2022,6.4,131.0,Crime
 The Witch,tv,2025,7.2,590.0,Mystery
@@ -18648,6 +18676,7 @@ Crime Scene: The Texas Killing Fields,tv,2022,6.6,5184.0,Crime
 Dead End,tv,2022,6.1,963.0,Comedy
 Love Never Lies: Destination Sardinia,tv,2022,5.1,186.0,Reality-TV
 The Long River,tv,2022,7.9,37.0,Drama
+The Weakest Tamer Began a Journey to Pick Up Trash,tv,2024,7.2,863.0,Adventure
 Unexpected - Love Story in Maison Ginseiso-,tv,2023,6.6,15.0,Comedy
 The Real Deal Has Come!,tv,2023,6.4,492.0,Drama
 The Most Beautiful Flower,tv,2022,6.0,346.0,Comedy
@@ -18788,6 +18817,7 @@ MH370: The Plane That Disappeared,tv,2023,6.1,15037.0,Documentary
 War Sailor,tv,2023,7.2,2851.0,Drama
 The Perfect Couple,tv,2024,6.5,62483.0,Crime
 Dance 100,tv,2023,6.3,558.0,Game-Show
+The Great Cleric,tv,2023,6.8,1120.0,Adventure
 Ariyoshi Assists,tv,2023,6.7,49.0,Comedy
 Fool Me Once,tv,2024,6.8,63865.0,Crime
 100 Days to Indy,tv,2023,7.8,181.0,Documentary
@@ -18798,6 +18828,7 @@ Under Guardianship,tv,2023,8.5,929.0,Drama
 Quarterback,tv,2023,8.0,5082.0,Documentary
 Naam,tv,2020,8.0,499.0,Drama
 Monique Olivier: Accessory to Evil,tv,2023,6.8,1556.0,Crime
+Amidst a Snowstorm of Love,tv,2024,7.9,1230.0,Drama
 Fiasco,tv,2024,6.4,1755.0,Comedy
 The Tiny Chef Show,tv,2022,7.4,254.0,Animation
 Muted,tv,2023,5.6,5826.0,Crime
@@ -18845,6 +18876,7 @@ Alone Australia,tv,2023,6.5,752.0,Game-Show
 "African Folktales, Reimagined",tv,2023,6.2,252.0,Drama
 Hi Cookie,tv,2023,6.4,203.0,Crime
 Wind Breaker,tv,2024,7.5,5094.0,Action
+Celtics/Lakers: Best of Enemies,tv,2017,8.2,939.0,Biography
 Running for the Truth: Alex Schwazer,tv,2023,7.5,573.0,Crime
 IRL: In Real Love,tv,2023,3.2,246.0,Reality-TV
 King of Collectibles: The Goldin Touch,tv,2023,6.6,1427.0,Reality-TV
@@ -18863,7 +18895,6 @@ Tooth Pari: When Love Bites,tv,2023,6.9,3302.0,Comedy
 Queen Cleopatra,tv,2023,1.2,86942.0,Documentary
 Los pacientes del doctor García,tv,2023,6.9,949.0,Drama
 Light the Wild,tv,2023,6.4,33.0,Reality-TV
-The Bento Brings Happiness,tv,2023,6.5,13.0,Drama
 Desperate Lies,tv,2024,6.8,1356.0,Drama
 The Ultimatum: Queer Love,tv,2023,6.8,1344.0,Reality-TV
 Love Village,tv,2022,7.3,314.0,Reality-TV
@@ -18973,7 +19004,6 @@ The Hunt for Veerappan,tv,2023,7.9,3010.0,Biography
 The Trunk,tv,2024,7.0,3642.0,Drama
 Be Your Own Light,tv,2023,8.1,31.0,Drama
 The Big Nailed It Baking Challenge,tv,2023,7.3,383.0,Game-Show
-The Demon Prince of Momochi House,tv,2024,6.2,322.0,Animation
 Lovely Runner,tv,2024,8.6,10535.0,Comedy
 Moon in the Day,tv,2023,7.0,979.0,Fantasy
 At Home with the Furys,tv,2023,7.0,1337.0,Documentary
@@ -18985,6 +19015,7 @@ House of Sims,tv,2023,4.3,102.0,Reality-TV
 Good Night World,tv,2023,6.4,971.0,Animation
 Thursday's Widows,tv,2023,6.2,1298.0,Drama
 Mermaid Magic,tv,2024,7.3,165.0,Adventure
+Wolf King,tv,2025,6.6,720.0,Adventure
 Deliver Me,tv,2024,6.5,2228.0,Drama
 Midsummer Night,tv,2024,6.6,2691.0,Drama
 Miss Night and Day,tv,2024,7.6,2182.0,Comedy
@@ -19111,6 +19142,7 @@ Hellbound Village,tv,2023,6.8,95.0,Horror
 Nothing to See Here,tv,2023,7.5,893.0,Comedy
 "The Billionaire, the Butler & the Boyfriend",tv,2023,6.8,1503.0,Crime
 "Krish, Trish & Baltiboy Bharat Hain Hum",tv,2023,8.5,27.0,Animation
+Domino Day: Lone Witch,tv,2024,6.3,912.0,Drama
 Carol & The End of the World,tv,2023,7.2,6262.0,Animation
 Analog Squad,tv,2023,7.5,455.0,Drama
 Una vida menos en Canarias,tv,2024,6.2,230.0,Action
@@ -19169,6 +19201,7 @@ Shafted,tv,2025,5.4,506.0,Comedy
 You Are What You Eat: A Twin Experiment,tv,2024,6.0,5203.0,Documentary
 Volume,tv,2023,7.2,42.0,Drama
 Bebefinn,tv,2022,4.6,26.0,Animation
+The Residence,tv,2025,7.9,13082.0,Comedy
 Kübra,tv,2024,6.2,4372.0,Drama
 Raël: The Alien Prophet,tv,2024,6.5,1311.0,Documentary
 Captains of the World,tv,2023,8.2,4484.0,Documentary
@@ -19255,6 +19288,7 @@ IC 814: The Kandahar Hijack,tv,2024,5.8,23032.0,Drama
 Dabba Cartel,tv,2025,7.1,2777.0,Crime
 The Greatest Rivalry: India vs Pakistan,tv,2025,6.4,883.0,Documentary
 Onsha no Midare Tadashimasu!,tv,2024,5.0,10.0,Drama
+From Dreams to Tragedy: The Fire that Shook Brazilian Football,tv,2024,7.0,133.0,Documentary
 A-List to Playlist,tv,2024,7.7,111.0,Reality-TV
 Homicide,tv,2024,7.3,4082.0,Crime
 Together: Treble Winners,tv,2024,7.3,2043.0,Documentary
@@ -19284,6 +19318,7 @@ Unmet: Aru Nogekai no Nikki,tv,2024,8.0,93.0,Drama
 Blossom,tv,2024,8.0,334.0,Drama
 The First Frost,tv,2025,8.5,1761.0,Drama
 The Decameron,tv,2024,6.4,10192.0,Comedy
+Caught,tv,2025,6.5,1056.0,Crime
 Fight for Paradise: Who Can You Trust?,tv,2024,5.6,143.0,Reality-TV
 Iron Family,tv,2024,7.0,539.0,Comedy
 My Wife Has No Emotion,tv,2024,6.4,267.0,Animation
@@ -19337,6 +19372,7 @@ Clan,tv,2024,6.9,9.0,Drama
 Sakuna: Of Rice and Ruin,tv,2024,6.2,104.0,Action
 Owning Manhattan,tv,2024,7.3,1416.0,Reality-TV
 Selling the City,tv,2025,5.4,517.0,Reality-TV
+Inside,tv,2024,7.4,454.0,Game-Show
 The Boyfriend,tv,2024,7.8,1408.0,Reality-TV
 Tokyo Override,tv,2024,6.4,456.0,Action
 Otto no katei wo kowasu made,tv,2024,6.7,28.0,Drama
@@ -19449,6 +19485,7 @@ Hidden Inventory,tv,2023,8.0,6420.0,Action
 Solo camping for two,tv,2025,6.0,10.0,Drama
 Kral Kaybederse,tv,2025,5.7,488.0,Drama
 The Hooligan,tv,2025,6.0,1201.0,Crime
+The Lady's Companion,tv,2025,7.3,383.0,Comedy
 Grisaia Phantom Trigger,tv,2025,4.9,53.0,Action
 "With Love, Meghan",tv,2025,3.2,10334.0,Reality-TV
 Aitana: Metamorphosis,tv,2025,6.0,127.0,Documentary
@@ -19457,6 +19494,7 @@ The Quintessential Quintuplets Specials,tv,2023,7.8,148.0,Animation
 Surviving Black Hawk Down,tv,2025,7.4,2830.0,Documentary
 Dog Days Out,tv,2025,5.2,46.0,Animation
 Ms. Rachel,tv,2025,7.6,43.0,Family
+Khakee: The Bengal Chapter,tv,2025,7.6,3251.0,Action
 American Manhunt: O.J. Simpson,tv,2025,7.5,3196.0,Documentary
 Offline Love,tv,2025,8.2,273.0,Reality-TV
 Dalah: Death and the Flowers,tv,2025,6.1,193.0,Crime
@@ -19466,11 +19504,19 @@ Bff Cry Babies Magic Tears,tv,2022,8.0,12.0,Animation
 American Murder: Gabby Petito,tv,2025,7.1,8752.0,Documentary
 Excellency,tv,2025,4.1,7.0,Game-Show
 Everybody's Live with John Mulaney,tv,2025,6.4,235.0,Comedy
+Bet Your Life,tv,2025,6.4,1083.0,Comedy
 Just One Look,tv,2025,6.1,1829.0,Crime
 Tuiskoms,tv,2025,6.4,321.0,Drama
 Mobile Suit Gundam SEED Destiny,tv,2004,7.0,1690.0,Action
 I solkorsets tegn,tv,1981,5.8,6.0,History
 That Time I Got Reincarnated as a Slime: Visions of Coleus,tv,2023,7.0,271.0,Action
 Medusa,tv,2025,5.1,1000.0,Drama
+Sindikat-2,tv,1981,7.3,81.0,Action
 Welcome to the Family,tv,2025,5.7,193.0,Comedy
+Million Dollar Secret,tv,2025,7.5,227.0,Game-Show
+Temptation Island,tv,2025,6.6,136.0,Game-Show
+Gold & Greed: The Hunt for Fenn's Treasure,tv,2025,7.1,346.0,Documentary
+Culture Shock,tv,2025,7.7,9.0,Comedy
+Go!,tv,2025,6.7,81.0,Drama
 Bleach: Thousand-Year Blood War,tv,2022,9.0,59500.0,Action
+De rockstar à tueur: le cas Cantat,tv,2025,7.2,15.0,Documentary
