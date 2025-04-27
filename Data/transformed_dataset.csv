@@ -53,7 +53,7 @@ Brokeback Mountain,movie,2005,7.7,400278.0,Drama
 Akira,movie,1988,8.0,215272.0,Animation
 48 Hrs.,movie,1982,6.9,89520.0,Action
 Lost in Translation,movie,2003,7.7,509960.0,Comedy
-The Dark Knight,movie,2008,9.0,3012932.0,Action
+The Dark Knight,movie,2008,9.0,3013235.0,Action
 Ocean's Eleven,movie,2001,7.7,644393.0,Crime
 Ocean's Twelve,movie,2004,6.5,425799.0,Crime
 Back to the Future Part II,movie,1989,7.8,596715.0,Adventure
@@ -70,7 +70,7 @@ Indiana Jones and the Kingdom of the Crystal Skull,movie,2008,6.2,502409.0,Actio
 Volver,movie,2006,7.6,110051.0,Comedy
 Syriana,movie,2005,6.9,136345.0,Drama
 Stand by Me,movie,1986,8.1,463289.0,Adventure
-The Godfather,movie,1972,9.2,2119481.0,Crime
+The Godfather,movie,1972,9.2,2119727.0,Crime
 The Godfather Part II,movie,1974,9.0,1425852.0,Crime
 In China They Eat Dogs,movie,1999,7.3,23795.0,Action
 Ghost,movie,1990,7.1,247449.0,Drama
@@ -79,7 +79,7 @@ King Kong,movie,2005,7.2,458689.0,Action
 Live Flesh,movie,1997,7.3,34732.0,Drama
 Batman,movie,1989,7.5,418941.0,Action
 Batman Begins,movie,2005,8.2,1642910.0,Action
-The Shawshank Redemption,movie,1994,9.3,3036174.0,Drama
+The Shawshank Redemption,movie,1994,9.3,3036547.0,Drama
 Terminator 2: Judgment Day,movie,1991,8.6,1229297.0,Action
 A River Runs Through It,movie,1992,7.2,67671.0,Drama
 Terminator 3: Rise of the Machines,movie,2003,6.3,427848.0,Action
@@ -90,7 +90,7 @@ Beverly Hills Cop III,movie,1994,5.5,97391.0,Action
 "Rome, Open City",movie,1945,8.0,31972.0,Drama
 Bruce Almighty,movie,2003,6.8,451867.0,Comedy
 Mystic River,movie,2003,7.9,503146.0,Crime
-Jurassic Park,movie,1993,8.2,1116367.0,Action
+Jurassic Park,movie,1993,8.2,1116530.0,Action
 The Lost World: Jurassic Park,movie,1997,6.6,458420.0,Action
 Jurassic Park III,movie,2001,5.9,352212.0,Action
 Once Upon a Time in the West,movie,1968,8.5,367249.0,Drama
@@ -151,7 +151,7 @@ Silent Hill,movie,2006,6.5,252257.0,Horror
 The Da Vinci Code,movie,2006,6.6,471806.0,Mystery
 The Conversation,movie,1974,7.7,130367.0,Drama
 The Terminal,movie,2004,7.4,513065.0,Comedy
-Titanic,movie,1997,7.9,1336534.0,Drama
+Titanic,movie,1997,7.9,1336689.0,Drama
 Full Metal Jacket,movie,1987,8.2,820134.0,Drama
 The Matrix,movie,1999,8.7,2150227.0,Action
 The Matrix Reloaded,movie,2003,7.2,650920.0,Action
@@ -161,7 +161,7 @@ Men in Black,movie,1997,7.3,638463.0,Action
 Men in Black II,movie,2002,6.2,418252.0,Action
 Munich,movie,2005,7.5,246885.0,Drama
 Wild Strawberries,movie,1957,8.1,120156.0,Drama
-The Passion of the Christ,movie,2004,7.2,261451.0,Drama
+The Passion of the Christ,movie,2004,7.2,261560.0,Drama
 Wild Things,movie,1998,6.6,136047.0,Crime
 The Bodyguard,movie,1992,6.4,153689.0,Drama
 Ghostbusters,movie,1984,7.8,469703.0,Action
@@ -176,7 +176,7 @@ Troy,movie,2004,7.3,592335.0,Action
 Saw IV,movie,2007,5.9,170996.0,Horror
 Central Station,movie,1998,8.0,47759.0,Drama
 Oldboy,movie,2003,8.3,676833.0,Action
-Harry Potter and the Sorcerer's Stone,movie,2001,7.7,902036.0,Adventure
+Harry Potter and the Sorcerer's Stone,movie,2001,7.7,902156.0,Adventure
 Harry Potter and the Chamber of Secrets,movie,2002,7.4,727611.0,Adventure
 Harry Potter and the Prisoner of Azkaban,movie,2004,7.9,727480.0,Adventure
 Harry Potter and the Goblet of Fire,movie,2005,7.7,715776.0,Adventure
@@ -185,7 +185,7 @@ Pulp Fiction,movie,1994,8.9,2329143.0,Crime
 Meet the Fockers,movie,2004,6.3,295048.0,Comedy
 The Piano,movie,1993,7.5,98228.0,Drama
 Together,movie,2000,7.4,25032.0,Comedy
-Top Gun,movie,1986,7.0,526571.0,Action
+Top Gun,movie,1986,7.0,526663.0,Action
 The Last Emperor,movie,1987,7.7,115701.0,Biography
 Shaun of the Dead,movie,2004,7.9,618078.0,Comedy
 V for Vendetta,movie,2005,8.1,1213115.0,Action
@@ -232,7 +232,7 @@ Do the Right Thing,movie,1989,8.0,118166.0,Comedy
 Godzilla,movie,1998,5.5,208519.0,Action
 Lawrence of Arabia,movie,1962,8.3,328466.0,Adventure
 Halloween,movie,1978,7.7,322851.0,Horror
-Heat,movie,1995,8.3,755681.0,Action
+Heat,movie,1995,8.3,755847.0,Action
 Kindergarten Cop,movie,1990,6.3,168645.0,Action
 Madagascar,movie,2005,6.9,457469.0,Adventure
 Mission: Impossible,movie,1996,7.2,487803.0,Action
@@ -377,7 +377,7 @@ Halloween,movie,2007,6.0,134853.0,Horror
 Romeo Must Die,movie,2000,6.1,75394.0,Action
 Requiem,movie,2001,5.0,579.0,Action
 American Pie,movie,1999,7.0,450625.0,Comedy
-The Breakfast Club,movie,1985,7.8,455982.0,Comedy
+The Breakfast Club,movie,1985,7.8,456116.0,Comedy
 Rush Hour,movie,1998,7.0,310772.0,Action
 Days of Thunder,movie,1990,6.1,99766.0,Action
 The Perfect Storm,movie,2000,6.5,183444.0,Action
@@ -493,7 +493,7 @@ Life Is a Long Quiet River,movie,1988,6.8,4911.0,Comedy
 The Flower of My Secret,movie,1995,7.0,13357.0,Comedy
 Charlie's Angels,movie,2000,5.6,201866.0,Action
 Atonement,movie,2007,7.8,313297.0,Drama
-Pride & Prejudice,movie,2005,7.8,351319.0,Drama
+Pride & Prejudice,movie,2005,7.8,351435.0,Drama
 The Kingdom,movie,2007,7.0,134921.0,Action
 The Lady Banker,movie,1980,6.2,887.0,Comedy
 Monster-in-Law,movie,2005,5.6,67309.0,Comedy
@@ -1434,7 +1434,7 @@ Daddy's Little Girls,movie,2007,5.9,8562.0,Drama
 Astro Boy,movie,2009,6.2,41374.0,Action
 Attack the Gas Station,movie,1999,6.9,4641.0,Comedy
 La Bamba,movie,1987,7.0,37940.0,Biography
-Life or Something Like It,movie,2002,5.8,30209.0,Comedy
+Life or Something Like It,movie,2002,5.8,30317.0,Comedy
 Protégé,movie,2007,7.2,5939.0,Crime
 My Brilliant Career,movie,1979,7.1,5046.0,Biography
 All About Lily Chou-Chou,movie,2001,7.5,12589.0,Crime
@@ -1444,7 +1444,7 @@ Doomsday: The Sinking of Japan,movie,2006,5.6,1576.0,Adventure
 Golden Oldies,movie,2008,5.2,473.0,Comedy
 Love & Dance,movie,2006,6.9,312.0,Drama
 Kiki's Delivery Service,movie,1989,7.8,176747.0,Animation
-Inglourious Basterds,movie,2009,8.4,1677050.0,Adventure
+Inglourious Basterds,movie,2009,8.4,1677374.0,Adventure
 Drag Me to Hell,movie,2009,6.6,224090.0,Horror
 The Wog Boy,movie,2000,5.8,2372.0,Comedy
 The Guard Post,movie,2008,5.8,1945.0,Horror
@@ -2648,7 +2648,7 @@ Sweet Bobby: My Catfish Nightmare,movie,2024,6.2,5648.0,Documentary
 Uranus 2324,movie,2024,6.4,4792.0,Drama
 John Wick,movie,2014,7.5,778091.0,Action
 The Shadow Strays,movie,2024,6.5,9190.0,Action
-Twisters,movie,2024,6.5,168221.0,Action
+Twisters,movie,2024,6.5,168504.0,Action
 The Third Murder,movie,2017,6.7,8464.0,Crime
 All Fun and Games,movie,2023,4.3,3815.0,Horror
 Here,movie,2024,6.3,20674.0,Drama
@@ -2997,7 +2997,7 @@ Necromancer 2020,movie,2019,4.6,172.0,Action
 My Boo,movie,2024,6.1,688.0,Comedy
 Baby Driver,movie,2017,7.5,649021.0,Action
 Cobweb,movie,2023,6.6,2061.0,Comedy
-The Wolf of Wall Street,movie,2013,8.2,1680843.0,Biography
+The Wolf of Wall Street,movie,2013,8.2,1681177.0,Biography
 Nope,movie,2022,6.8,297899.0,Horror
 Midnight in the Switchgrass,movie,2021,4.6,12005.0,Crime
 Babes,movie,2024,6.3,6333.0,Comedy
@@ -3114,7 +3114,7 @@ Fujimi Lovers,movie,2024,6.0,47.0,Romance
 Dream Palace,movie,2022,7.1,24.0,Drama
 The Outrun,movie,2024,6.9,15465.0,Drama
 The Summer,movie,2023,7.4,51.0,Animation
-The Hunger Games: The Ballad of Songbirds & Snakes,movie,2023,6.7,159515.0,Action
+The Hunger Games: The Ballad of Songbirds & Snakes,movie,2023,6.7,159600.0,Action
 Love Child,movie,2024,6.2,84.0,Drama
 Harold and the Purple Crayon,movie,2024,5.7,8350.0,Adventure
 Blood for Dust,movie,2023,5.2,2164.0,Action
@@ -4788,7 +4788,7 @@ One More Try,movie,2012,6.1,241.0,Drama
 Spring and Port Wine,movie,1970,7.0,1066.0,Drama
 The Police Commissioner,movie,1962,6.8,318.0,Comedy
 ABCD (Any Body Can Dance),movie,2013,6.3,7727.0,Drama
-Interstellar,movie,2014,8.7,2335875.0,Adventure
+Interstellar,movie,2014,8.7,2336296.0,Adventure
 Transcendence,movie,2014,6.2,242840.0,Drama
 In a World...,movie,2013,6.6,33425.0,Comedy
 Kill Your Darlings,movie,2013,6.4,42391.0,Biography
@@ -15238,14 +15238,14 @@ Mad Men,tv,2007,8.7,274304.0,Drama
 The Graham Norton Show,tv,2007,8.4,13777.0,Comedy
 Six Feet Under,tv,2001,8.7,158341.0,Comedy
 Gossip Girl,tv,2007,7.5,205407.0,Drama
-Breaking Bad,tv,2008,9.5,2320078.0,Crime
+Breaking Bad,tv,2008,9.5,2320585.0,Crime
 Seinfeld,tv,1989,8.9,368015.0,Comedy
 The Walking Dead,tv,2010,8.1,1138438.0,Drama
-Dexter,tv,2006,8.6,839787.0,Crime
-House,tv,2004,8.7,555847.0,Drama
+Dexter,tv,2006,8.6,839981.0,Crime
+House,tv,2004,8.7,555950.0,Drama
 Arrow,tv,2012,7.5,453728.0,Action
-Grey's Anatomy,tv,2005,7.6,358547.0,Drama
-The Big Bang Theory,tv,2007,8.1,906164.0,Comedy
+Grey's Anatomy,tv,2005,7.6,358606.0,Drama
+The Big Bang Theory,tv,2007,8.1,906239.0,Comedy
 Orange Is the New Black,tv,2013,8.0,328458.0,Comedy
 House of Cards,tv,2013,8.6,546127.0,Drama
 Attack on Titan,tv,2013,9.1,604846.0,Action
@@ -15254,8 +15254,8 @@ WWE Smackdown!,tv,1999,7.3,7420.0,Action
 Home Improvement,tv,1991,7.2,51200.0,Comedy
 The Adventures of Tintin,tv,1991,8.3,19882.0,Action
 Justice League,tv,2001,8.5,54654.0,Action
-Supernatural,tv,2005,8.4,510298.0,Drama
-Friends,tv,1994,8.9,1141590.0,Comedy
+Supernatural,tv,2005,8.4,510362.0,Drama
+Friends,tv,1994,8.9,1141761.0,Comedy
 Project Runway,tv,2004,7.4,11875.0,Reality-TV
 The Bernie Mac Show,tv,2001,7.2,8885.0,Comedy
 Monk,tv,2002,8.1,98312.0,Comedy
@@ -15276,11 +15276,11 @@ Saiyûki,tv,2006,6.6,78.0,Action
 H2O: Just Add Water,tv,2006,7.3,19814.0,Adventure
 Orange Days,tv,2004,8.0,1130.0,Drama
 Aquí no hay quien viva,tv,2003,8.2,5257.0,Comedy
-Prison Break,tv,2005,8.3,625079.0,Action
+Prison Break,tv,2005,8.3,625234.0,Action
 The Thin Blue Line,tv,1995,7.5,8576.0,Comedy
 Thomas & Friends,tv,1984,6.5,7279.0,Adventure
 The Jamie Foxx Show,tv,1996,6.8,3896.0,Comedy
-The Office,tv,2005,9.0,772133.0,Comedy
+The Office,tv,2005,9.0,772284.0,Comedy
 Mighty Morphin Power Rangers,tv,1993,6.6,25513.0,Action
 Hell's Kitchen,tv,2005,7.2,23634.0,Game-Show
 Girlfriends,tv,2000,7.4,5308.0,Comedy
@@ -15294,7 +15294,7 @@ Deadliest Catch,tv,2005,7.8,9564.0,Adventure
 Il était une fois... la vie,tv,1987,8.2,5813.0,Animation
 My Wife and Kids,tv,2000,6.9,30739.0,Comedy
 It's Always Sunny in Philadelphia,tv,2005,8.8,265311.0,Comedy
-Law & Order: Special Victims Unit,tv,1999,8.1,135932.0,Crime
+Law & Order: Special Victims Unit,tv,1999,8.1,135956.0,Crime
 Totally Spies!,tv,2001,7.1,13841.0,Action
 SeaChange,tv,1998,8.0,1275.0,Comedy
 Life on Mars,tv,2006,8.4,33860.0,Crime
@@ -15311,9 +15311,9 @@ My Fair Princess,tv,1998,7.8,1414.0,Action
 Mr. Bean,tv,1990,8.6,142169.0,Comedy
 Gilmore Girls,tv,2000,8.2,161005.0,Comedy
 Arrested Development,tv,2003,8.7,334205.0,Comedy
-Lost,tv,2004,8.3,639067.0,Adventure
+Lost,tv,2004,8.3,639166.0,Adventure
 Band of Brothers,tv,2001,9.4,560197.0,Action
-NCIS,tv,2003,7.8,170455.0,Action
+NCIS,tv,2003,7.8,170469.0,Action
 Ugly Betty,tv,2006,6.8,49447.0,Comedy
 The Fairly OddParents,tv,2001,7.2,49329.0,Adventure
 WWE Raw,tv,1993,7.7,10392.0,Action
@@ -15531,7 +15531,7 @@ The Voice,tv,2011,6.5,13762.0,Game-Show
 Suits,tv,2011,8.4,513448.0,Comedy
 Startling by Each Step,tv,2011,7.9,676.0,Drama
 Dream High,tv,2011,7.6,3964.0,Comedy
-One Piece,tv,1999,9.0,294027.0,Action
+One Piece,tv,1999,9.0,294147.0,Action
 Fullmetal Alchemist,tv,2003,8.5,81867.0,Action
 American Ninja Warrior,tv,2009,6.8,4553.0,Action
 Tiger & Dragon,tv,2005,7.8,568.0,Comedy
@@ -15859,7 +15859,7 @@ Days with My Stepsister,tv,2024,7.0,1237.0,Animation
 Monster High,tv,2022,6.3,633.0,Animation
 Is It Wrong to Try to Pick Up Girls in a Dungeon?,tv,2015,7.4,12240.0,Action
 A Time Called You,tv,2023,7.9,5561.0,Drama
-Ghosts,tv,2021,7.9,40165.0,Comedy
+Ghosts,tv,2021,7.9,40204.0,Comedy
 Shi Xiao,tv,2024,7.6,114.0,Drama
 ID-0,tv,2017,6.1,378.0,Action
 Banana Fish,tv,2018,8.1,10135.0,Action
@@ -17823,7 +17823,7 @@ Ore no Ie no Hanashi,tv,2021,7.6,305.0,Comedy
 Nijiiro Carte,tv,2021,7.1,29.0,Drama
 Vincenzo,tv,2021,8.4,34218.0,Action
 Hell's Paradise: Jigokuraku,tv,2023,8.1,19959.0,Action
-Yellowjackets,tv,2021,7.7,104798.0,Drama
+Yellowjackets,tv,2021,7.7,104888.0,Drama
 IDOLiSH7 Vibrato,tv,2018,8.1,44.0,Music
 Ginny & Georgia,tv,2021,7.4,90518.0,Comedy
 Canine Intervention,tv,2021,6.7,1000.0,Documentary
@@ -17951,7 +17951,7 @@ Florida Man,tv,2023,6.7,12650.0,Crime
 Komi Can't Communicate,tv,2021,7.7,11216.0,Animation
 Hype House,tv,2022,1.9,3199.0,Reality-TV
 Pi Mai Pi Mai Tang Tu,tv,1990,8.1,25.0,Comedy
-Hacks,tv,2021,8.2,51212.0,Comedy
+Hacks,tv,2021,8.2,51270.0,Comedy
 The Scent of Passion,tv,2021,7.5,884.0,Drama
 Canta Comigo,tv,2018,6.9,24.0,Game-Show
 Rainbow High,tv,2020,5.6,290.0,Adventure
